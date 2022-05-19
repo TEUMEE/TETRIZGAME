@@ -1,0 +1,5 @@
+C:\Users\ANDITRY\source\repos\TETRIZGAME\TETRIZGAME\obj\Debug\TETRIZGAME.csprojAssemblyReference.cache
+C:\Users\ANDITRY\source\repos\TETRIZGAME\TETRIZGAME\obj\Debug\MainWindow.g.cs
+C:\Users\ANDITRY\source\repos\TETRIZGAME\TETRIZGAME\obj\Debug\App.g.cs
+C:\Users\ANDITRY\source\repos\TETRIZGAME\TETRIZGAME\obj\Debug\TETRIZGAME_MarkupCompile.cache
+C:\Users\ANDITRY\source\repos\TETRIZGAME\TETRIZGAME\obj\Debug\TETRIZGAME_MarkupCompile.lref
